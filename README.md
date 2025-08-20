@@ -79,13 +79,14 @@ python app.py
 ```
 ## Note about using Timestamps
 
---to use timestamps do the following 
+!!!!to use timestamps do the following 
 
 in terminal : 
-
+```bash
 pip uninstall nemo_toolkit
 pip install git+https://github.com/NVIDIA/NeMo.git@main
 pip install texterrors
+```
 ##  Requirements
 
 ### System Requirements
